@@ -1,0 +1,17 @@
+C:\Users\pauli\OneDrive\Documentos\Fiap Estudos Code\DesafioFiap2\DesafioFiap2\bin\Debug\net7.0\DesafioFiap2.exe
+C:\Users\pauli\OneDrive\Documentos\Fiap Estudos Code\DesafioFiap2\DesafioFiap2\bin\Debug\net7.0\DesafioFiap2.deps.json
+C:\Users\pauli\OneDrive\Documentos\Fiap Estudos Code\DesafioFiap2\DesafioFiap2\bin\Debug\net7.0\DesafioFiap2.runtimeconfig.json
+C:\Users\pauli\OneDrive\Documentos\Fiap Estudos Code\DesafioFiap2\DesafioFiap2\bin\Debug\net7.0\DesafioFiap2.dll
+C:\Users\pauli\OneDrive\Documentos\Fiap Estudos Code\DesafioFiap2\DesafioFiap2\bin\Debug\net7.0\DesafioFiap2.pdb
+C:\Users\pauli\OneDrive\Documentos\Fiap Estudos Code\DesafioFiap2\DesafioFiap2\bin\Debug\net7.0\RestSharp.dll
+C:\Users\pauli\OneDrive\Documentos\Fiap Estudos Code\DesafioFiap2\DesafioFiap2\obj\Debug\net7.0\DesafioFiap2.csproj.AssemblyReference.cache
+C:\Users\pauli\OneDrive\Documentos\Fiap Estudos Code\DesafioFiap2\DesafioFiap2\obj\Debug\net7.0\DesafioFiap2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\OneDrive\Documentos\Fiap Estudos Code\DesafioFiap2\DesafioFiap2\obj\Debug\net7.0\DesafioFiap2.AssemblyInfoInputs.cache
+C:\Users\pauli\OneDrive\Documentos\Fiap Estudos Code\DesafioFiap2\DesafioFiap2\obj\Debug\net7.0\DesafioFiap2.AssemblyInfo.cs
+C:\Users\pauli\OneDrive\Documentos\Fiap Estudos Code\DesafioFiap2\DesafioFiap2\obj\Debug\net7.0\DesafioFiap2.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Documentos\Fiap Estudos Code\DesafioFiap2\DesafioFiap2\obj\Debug\net7.0\DesafioFiap2.csproj.CopyComplete
+C:\Users\pauli\OneDrive\Documentos\Fiap Estudos Code\DesafioFiap2\DesafioFiap2\obj\Debug\net7.0\DesafioFiap2.dll
+C:\Users\pauli\OneDrive\Documentos\Fiap Estudos Code\DesafioFiap2\DesafioFiap2\obj\Debug\net7.0\refint\DesafioFiap2.dll
+C:\Users\pauli\OneDrive\Documentos\Fiap Estudos Code\DesafioFiap2\DesafioFiap2\obj\Debug\net7.0\DesafioFiap2.pdb
+C:\Users\pauli\OneDrive\Documentos\Fiap Estudos Code\DesafioFiap2\DesafioFiap2\obj\Debug\net7.0\DesafioFiap2.genruntimeconfig.cache
+C:\Users\pauli\OneDrive\Documentos\Fiap Estudos Code\DesafioFiap2\DesafioFiap2\obj\Debug\net7.0\ref\DesafioFiap2.dll
